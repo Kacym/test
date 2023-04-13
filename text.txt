@@ -17,4 +17,9 @@
 7. change tree with command: git checkout (tree-name)
 
 8. You can see all trees with command: git branch
+8.1 delete the branch: git branch -D (branch-name)
+
+=============== ============== ==============
+
+9. Получение актуальных данных с origin или github: git pull origin (название ветки с которого вы хотите получить изменения)
 
