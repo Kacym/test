@@ -1,5 +1,20 @@
 1. initialize the git in my project command: git init
+# only one time
 
+=== === ===
 2. adding all files to local git: git add fileName or all .
 
-3. commit (comment) changes in local git: git commit -m "our commit (comment)"
+3. type your name & email command: git config --global user.name "Your name" && git config --global user.email "Your email"
+
+4. commit (comment) changes in local git: git commit -m "our commit (comment)"
+
+5. connect with your repository, command: git remote add origin "https://github.com/Kacym/your-repository.git"
+
+6. push repository with command: git push origin -u (branch name)
+
+6. You can make new tree with command: git branch (new-tree-name) !only one name
+
+7. change tree with command: git checkout (tree-name)
+
+8. You can see all trees with command: git branch
+
